@@ -2,7 +2,7 @@ package com.pieces;
 
 import java.util.Collection;
 
-import com.javachess.Position;
+import com.engine.Position;
 
 /**
  * Pieces interface

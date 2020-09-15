@@ -1,4 +1,4 @@
-package com.javachess;
+package com.engine;
 
 import java.util.Collection;
 
